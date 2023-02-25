@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "zljclavFAmlnEt3GE5pFEfb7knwcH6q1pZ4N2efRq19fejT/uTzLeX6SDkvgDyYVFxDimbbnxS0uPZdyjqpr+Q==",
+  "dgSpecHash": "LnrbKK7pIslPKoxsoKtbkna2GPkkFoOXbVH2GPdj2TC8r69Pt14O5LYOyvWB1avdXzFswU0SZ9Ad1pVgiygwsA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ricar\\Documents\\repos\\ShoppingCart\\Backend\\ShoppingCart\\ShoppingCart.Api\\ShoppingCart.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ricar\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\ricar\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ricar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",

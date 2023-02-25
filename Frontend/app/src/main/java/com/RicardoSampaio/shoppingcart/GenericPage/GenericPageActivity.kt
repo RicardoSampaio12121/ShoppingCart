@@ -2,6 +2,7 @@ package com.RicardoSampaio.shoppingcart.GenericPage
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.RicardoSampaio.shoppingcart.R
 
 class GenericPageActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
