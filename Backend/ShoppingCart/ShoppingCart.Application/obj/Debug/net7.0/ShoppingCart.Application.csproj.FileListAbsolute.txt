@@ -1,0 +1,15 @@
+C:\Users\ricar\Documents\repos\ShoppingCart\Backend\ShoppingCart\ShoppingCart.Application\bin\Debug\net7.0\ShoppingCart.Application.deps.json
+C:\Users\ricar\Documents\repos\ShoppingCart\Backend\ShoppingCart\ShoppingCart.Application\bin\Debug\net7.0\ShoppingCart.Application.dll
+C:\Users\ricar\Documents\repos\ShoppingCart\Backend\ShoppingCart\ShoppingCart.Application\bin\Debug\net7.0\ShoppingCart.Application.pdb
+C:\Users\ricar\Documents\repos\ShoppingCart\Backend\ShoppingCart\ShoppingCart.Application\obj\Debug\net7.0\ShoppingCart.Application.csproj.AssemblyReference.cache
+C:\Users\ricar\Documents\repos\ShoppingCart\Backend\ShoppingCart\ShoppingCart.Application\obj\Debug\net7.0\ShoppingCart.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Documents\repos\ShoppingCart\Backend\ShoppingCart\ShoppingCart.Application\obj\Debug\net7.0\ShoppingCart.Application.AssemblyInfoInputs.cache
+C:\Users\ricar\Documents\repos\ShoppingCart\Backend\ShoppingCart\ShoppingCart.Application\obj\Debug\net7.0\ShoppingCart.Application.AssemblyInfo.cs
+C:\Users\ricar\Documents\repos\ShoppingCart\Backend\ShoppingCart\ShoppingCart.Application\obj\Debug\net7.0\ShoppingCart.Application.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Documents\repos\ShoppingCart\Backend\ShoppingCart\ShoppingCart.Application\obj\Debug\net7.0\ShoppingCart.Application.dll
+C:\Users\ricar\Documents\repos\ShoppingCart\Backend\ShoppingCart\ShoppingCart.Application\obj\Debug\net7.0\refint\ShoppingCart.Application.dll
+C:\Users\ricar\Documents\repos\ShoppingCart\Backend\ShoppingCart\ShoppingCart.Application\obj\Debug\net7.0\ShoppingCart.Application.pdb
+C:\Users\ricar\Documents\repos\ShoppingCart\Backend\ShoppingCart\ShoppingCart.Application\obj\Debug\net7.0\ref\ShoppingCart.Application.dll
+C:\Users\ricar\Documents\repos\ShoppingCart\Backend\ShoppingCart\ShoppingCart.Application\bin\Debug\net7.0\ShoppingCart.Domain.dll
+C:\Users\ricar\Documents\repos\ShoppingCart\Backend\ShoppingCart\ShoppingCart.Application\bin\Debug\net7.0\ShoppingCart.Domain.pdb
+C:\Users\ricar\Documents\repos\ShoppingCart\Backend\ShoppingCart\ShoppingCart.Application\obj\Debug\net7.0\ShoppingCart.Application.csproj.CopyComplete
