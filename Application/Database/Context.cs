@@ -16,7 +16,7 @@ public class Context: DbContext
     {
         _configuration = configuration;
     }
-
+   
     public virtual DbSet<User> User { get; set; }
     public virtual DbSet<ShoppingList> ShoppingLIs { get; set; }
 
